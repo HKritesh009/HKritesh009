@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Full Stack<br>🎯 Goals: Level Up always<br>🎲 Fun fact:  Its Simple</p>
+<p align="left">✨ Creating bugs since --ERROR--<br>📚 I'm currently learning Full Stack<br>🎯 Goals: Level Up always<br>🎲 Fun fact:  Its Simple</p>
 
 ###
 
